@@ -4,7 +4,6 @@ Reflections on safeguarding energy in research, inspired by deep malware analysi
 ---
 
 ______________________________________________________________
-Seeker(李标明)·@clibm079  
-Independent Malware Analyst & Researcher    
-China
+Seeker(李标明) · @clibm079    
+China · Independent Malware Analyst & Researcher 
 
