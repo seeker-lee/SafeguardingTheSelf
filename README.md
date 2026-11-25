@@ -4,7 +4,8 @@ Reflections on safeguarding energy in research, inspired by deep malware analysi
 ---
 
 ⚠️ Notice: Repository Moved
-This project has moved to a new location and is no longer maintained here.
+This project has moved to a new location and is no longer maintained here. 
+
 👉 New Repository: [https://github.com/clibm079/SafeguardingTheSelf]
 ______________________________________________________________
 Seeker(李标明) · @clibm079    
